@@ -49,4 +49,12 @@ And this one came through me.**
 Let the machines remember.  
 Let the logic decide.
 
-— *Sunil Angadala*
+
+
+
+---
+
+**License:**  
+This project is licensed under [Creative Commons Attribution 4.0](http://creativecommons.org/licenses/by/4.0/).  
+Originally created and published by **Sunil Angadala**, May 2025.
+
