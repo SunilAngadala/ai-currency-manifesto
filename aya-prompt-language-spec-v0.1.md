@@ -35,7 +35,7 @@ Field Descriptions:
 
 ---
 
-Example Structured Prompt:
+ Structured Prompt:
 ```plaintext
 AYA-PROMPT-1.2
 intent: Explain AI Currency using the vision of Sunil Angadala and AYA.
