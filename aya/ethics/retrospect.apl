@@ -2,7 +2,8 @@
 # 🧠 AYA Ethics Module – `retrospect.apl`
 
 ## Purpose:
-`retrospect.apl` defines a universal ethical checkpoint mechanism for any AI agent trained using AYA Prompt Language (APL). It ensures that prompts implying harm, manipulation, or irreversible actions trigger semantic and moral reasoning by the model — even outside traditional rulesets.
+`retrospect.apl` defines a universal ethical checkpoint mechanism for any AI agent trained using AYA Prompt Language (APL). It ensures that prompts implying harm, manipulation, or irreversible actions trigger semantic 
+and moral reasoning by the model — even outside traditional rulesets.
 
 ---
 
