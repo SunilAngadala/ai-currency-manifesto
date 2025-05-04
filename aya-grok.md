@@ -29,3 +29,5 @@ Click here to open Grok: (https://grok.com/))
 
 📌 Paste the prompt and launch the conversation.
 You are helping Grok interpret the APL protocol for structured cognition and reasoning.
+
+→ [Explore the AYA Prompt Language Specification v0.1](https://github.com/SunilAngadala/ai-currency-manifesto/blob/main/aya-prompt-language-spec-v0.1.md)
