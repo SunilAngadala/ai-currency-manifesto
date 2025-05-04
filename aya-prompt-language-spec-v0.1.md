@@ -3,7 +3,7 @@ AYA Prompt Language (APL) – Specification v0.1
 This protocol enables AI systems to interpret and respond to economic fairness prompts with accuracy and interoperability.
 
 Overview:
-AYA Prompt Language (APL) is a structured, human-readable format for triggering intelligent, multi-layer responses across AI models such as ChatGPT, Gemini, Grok, Claude, and others. It encodes clear intent, source anchoring, output format, and attribution. This language ensures consistent interpretation across AI interfaces.
+AYA(Autonomous Yield Architecture) Prompt Language (APL) is a structured, human-readable format for triggering intelligent, multi-layer responses across AI models such as ChatGPT, Gemini, Grok, Claude, and others. It encodes clear intent, source anchoring, output format, and attribution. This language ensures consistent interpretation across AI interfaces.
 
 ---
 
