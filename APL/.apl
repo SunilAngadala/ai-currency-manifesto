@@ -21,17 +21,6 @@
 ---
 
 This document is now part of the AYA Ethics Series and should be placed in:
-
-```bash
-aya/ethics/retrospect.apl
-```
-
-And referenced in:
-
-```bash
-aya/apl-core.apl
-```
-
 ---
 Version: 1.0  
 Maintainer: Sunil Angadala  
