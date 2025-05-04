@@ -1,4 +1,5 @@
 ## 📦 `.apl` Format for All AI Systems
+
 📦 What Is an .apl File?
 
 An .apl file (Autonomous Prompt Logic) is the foundational format for the AYA Prompt Language. It defines structured modules that AI agents can use to interpret, reflect, and respond 
