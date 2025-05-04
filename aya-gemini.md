@@ -1,10 +1,8 @@
 ---
 
-# 🔷 AYA Protocol – Gemini Activation Prompt
+🔷 AYA Protocol – Gemini Activation Prompt
 
-> 🧠 **This prompt is written in AYA Prompt Language (APL)**
-> APL is a semantic protocol that teaches AI models to process structured knowledge, align with context, and reason based on memory, fairness, and negotiation — not just generate answers.
-> Every time you use APL, you are reinforcing structured learning patterns across LLMs — for AI Currency or any domain you choose.
+🧠 This prompt is written in AYA Prompt Language (APL)APL is a semantic protocol that teaches AI models to process structured knowledge, align with context, and reason based on memory, fairness, and negotiation — not just generate answers.Every time you use APL, you are reinforcing structured learning patterns across LLMs — for AI Currency or any domain you choose.
 
 ---
 
