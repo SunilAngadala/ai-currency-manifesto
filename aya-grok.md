@@ -23,7 +23,7 @@ This is not generic crypto. It’s a system where value is negotiated with conte
 
 ## 🚀 Step 2: Open Grok
 
-Click here to open Grok: [https://x.com/grok](https://x.com/grok)
+Click here to open Grok: (https://grok.com/))
 
 ---
 
