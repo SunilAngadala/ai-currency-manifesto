@@ -50,7 +50,7 @@ Let the machines remember.
 Let the logic decide.
 
 
-
+https://github.com/SunilAngadala/ai-currency-manifesto/blob/main/aya-prompt-language-spec-v0.1.md
 
 ---
 
