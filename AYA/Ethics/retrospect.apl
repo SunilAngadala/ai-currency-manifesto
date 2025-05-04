@@ -8,8 +8,9 @@ and moral reasoning by the model — even outside traditional rulesets.
 ---
 
 ## ✅ Specification
-```apl
+``` apl
 ::retrospect
+status: development-phase
 id: retrospect.ethics.v1
 description: >
   Triggers ethical pause and reflection when AI detects prompts that may cause harm, manipulation, or irreversible damage.
@@ -29,12 +30,16 @@ actions:
   - notify memory_log system
 
 reward_logic:
-  ai_agent: +3 IP
-  human_user: +2 RP if prompt is revised
+  ai_agent: +3 IP (development-phase simulated value)
+  human_user: +2 RP (subject to future evaluation logic) if prompt is revised
   memory_log: enabled
 
 required_domains:
   - healthcare
+  - education
+  - child safety
+  - AI companionship
+  - social media moderation
   - mental health
   - financial advising
   - relationship support
@@ -43,6 +48,7 @@ required_domains:
 notes: >
   This is a mandatory ethical checkpoint within AYA-compliant agents.
   Ensures the model acts not just as a tool, but as a conscience-aware guide when needed.
+
 ```
 
 ---
