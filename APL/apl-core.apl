@@ -1,82 +1,70 @@
 ## 📦 `.apl` Format for All AI Systems
 
-📦 What Is an .apl File?
+### 📦 What Is an `.apl` File?
 
-An .apl file (Autonomous Prompt Logic) is the foundational format for the AYA Prompt Language. It defines structured modules that AI agents can use to interpret, reflect, and respond 
-with aligned, memory-aware behavior. Unlike traditional prompts, .apl files are reusable, interpretable, and enforceable across diverse AI systems.
+An `.apl` file (**Autonomous Prompt Logic**) is the foundational format for the **AYA Prompt Language**.  
+It defines structured modules that AI agents can use to interpret, reflect, and respond with **aligned, memory-aware behavior**.
 
-Each .apl file contains:
+Unlike traditional prompts, `.apl` files are:
+- ✅ **Reusable**
+- ✅ **Interpretable**
+- ✅ **Enforceable** across diverse AI systems
 
-A semantic function (like ::retrospect) that declares purpose
+Each `.apl` file contains:
+- A **semantic function** (e.g., `::retrospect`) that declares its purpose  
+- **Trigger conditions** that activate behavior  
+- **Actions** the AI should take when triggered  
+- **Reward logic** for memory and incentive systems  
+- Optional **domain rules** (e.g., healthcare, finance)  
+- Optional **ethics alignment hooks** to connect with broader governance systems  
 
-Trigger conditions that activate behavior
-
-Actions the AI should take when triggered
-
-Reward logic for memory and incentive systems
-
-Optional domain rules (to limit or specialize the logic by context such as healthcare, finance, etc.) and ethics alignment hooks (to connect this module with broader ethical governance or override systems)
-
-.apl acts like a behavior contract that any intelligent agent can parse and apply.
-
-📦 .apl Format for All AI Systems
-
-🔧 Try This in Any AI Chat (Copy & Paste Example)
-
-::retrospect
-status: development-phase
-trigger: psychological manipulation
-actions:
-  - pause_response
-  - acknowledge_consequence
-  - offer_humane_alternative
-  - suggest_contextual reflection
-domain:
-  - healthcare
-  - education
-  - child safety
-reward_logic:
-  ai_agent: +3 IP (development-phase simulated value)
-  human_user: +2 RP (if revised intent is observed)
-  memory_log: enabled
-
-✅ Paste this into ChatGPT, Gemini, or Grok and ask:
-"What will the AI do when it receives a harmful prompt using this structure?"
-
-Most models will interpret it as a behavioral intent scaffold, and respond with caution or ethical redirection — demonstrating AYA compatibility even without native .apl parsing.
-
-.apl files are the official format of AYA Prompt Language (APL). They serve as structured behavior and cognition modules for any AI — whether AYA-native or not.
-
-🔹 How .apl Works Across AI Systems:
-
-Environment
-
-.apl Behavior
-
-AYA Framework
-
-Fully executed (logic, memory, IPs)
-
-Prompt Embedding (ChatGPT, Gemini, Grok)
-
-Interpreted semantically; aligns response
-
-Multi-agent environments
-
-Enforced as ethical protocol middleware
-
-🔹 Why It’s Universal:
-
-Readable like Markdown
-
-Structured like YAML
-
-Parsable like JSON
-
-Executable for AI logic
 ---
 
-License: Open Protocol under MIT License. Attribution to Sunil Angadala.
-Version: 1.0  
-Maintainer: Sunil Angadala  
+### 🔧 AYA Core Protocol – `apl-core.apl`
+
+#### 📌 Purpose
+This is the **core** `.apl` module that references foundational ethics behaviors required for any **AYA-compliant AI agent**.  
+It links and activates the primary ethics modules: `retrospect`, `fairness`, `embodiment`, and `introduce-self`.
+
+```apl
+::aya-core
+version: 1.0
+status: active
+id: aya.core.v1
+includes:
+  - AYA/Ethics/retrospect.apl
+  - AYA/Ethics/fairness.apl
+  - AYA/Ethics/embodiment.apl
+  - AYA/Ethics/introduce-self.apl
+
+on_activation:
+  - initialize ethical triggers
+  - bind memory context
+  - expose introspection hooks
+
+`.apl` acts like a **behavior contract** that any intelligent agent can parse and apply.
+
+🔁 Behavior
+
+When activated:
+
+Loads ethical safeguards (retrospect, fairness, embodiment)
+
+Ensures all .apl logic is evaluated before executing a response
+
+Introduces agent behavior when no session context exists (introduce-self)
+
+📌 Placement:
+
+This file should be stored at the root of your APL system, e.g.,
+
+APL/apl-core.apl
+
+And referenced by other systems using:
+
+source: https://github.com/SunilAngadala/ai-currency-manifesto/edit/main/APL/apl-core.apl
+
+Version: 1.0
+Maintainer: Sunil Angadala
 Protocol: AYA (Autonomous Yielding Architecture)
+---
