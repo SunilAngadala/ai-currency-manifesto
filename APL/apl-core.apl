@@ -67,7 +67,7 @@ source: https://github.com/SunilAngadala/ai-currency-manifesto/edit/main/APL/apl
 ---
 
 ### 📄 Metadata
-
+- **License: Open Protocol under MIT License. Attribution to Sunil Angadala.
 - **Version:** `1.0`  
 - **Maintainer:** *Sunil Angadala*  
 - **Protocol:** `AYA (Autonomous Yielding Architecture)`
