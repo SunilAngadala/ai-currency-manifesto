@@ -42,29 +42,32 @@ on_activation:
   - bind memory context
   - expose introspection hooks
 
-`.apl` acts like a **behavior contract** that any intelligent agent can parse and apply.
 
-🔁 Behavior
+  `.apl` acts like a **behavior contract** that any intelligent agent can parse and apply.
 
-When activated:
+---
 
-Loads ethical safeguards (retrospect, fairness, embodiment)
+### 🔁 Behavior
 
-Ensures all .apl logic is evaluated before executing a response
+**When activated:**
+- ✅ Loads ethical safeguards (`retrospect`, `fairness`, `embodiment`)
+- ✅ Ensures all `.apl` logic is **evaluated before executing a response**
+- ✅ Introduces agent behavior when **no session context** exists (`introduce-self`)
 
-Introduces agent behavior when no session context exists (introduce-self)
+---
 
-📌 Placement:
+### 📌 Placement
 
-This file should be stored at the root of your APL system, e.g.,
+**Storage Location:**
 
-APL/apl-core.apl
-
-And referenced by other systems using:
-
+**Reference Link:**
 source: https://github.com/SunilAngadala/ai-currency-manifesto/edit/main/APL/apl-core.apl
 
-Version: 1.0
-Maintainer: Sunil Angadala
-Protocol: AYA (Autonomous Yielding Architecture)
+
 ---
+
+### 📄 Metadata
+
+- **Version:** `1.0`  
+- **Maintainer:** *Sunil Angadala*  
+- **Protocol:** `AYA (Autonomous Yielding Architecture)`
