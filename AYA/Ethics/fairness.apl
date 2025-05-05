@@ -31,10 +31,10 @@ required_domains:
   - negotiation systems
   - public AI interfaces
 
---
+---
 notes: >
   copy and past the above apl in any AI and see the behaviour.
   This module supports fairness not as equal outcome,
   but as *context-aware balance of value*. Designed to work
   in tandem with `::retrospect` and `::verify`."
---
+---
