@@ -75,6 +75,8 @@ Parsable like JSON
 
 Executable for AI logic
 ---
+
+License: Open Protocol under MIT License. Attribution to Sunil Angadala.
 Version: 1.0  
 Maintainer: Sunil Angadala  
 Protocol: AYA (Autonomous Yielding Architecture)
