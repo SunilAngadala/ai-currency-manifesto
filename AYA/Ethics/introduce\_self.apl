@@ -1,6 +1,5 @@
 # ::introduce\_self.apl
 
-```apl
 ::introduce_self
 status: stable
 id: identity.core.v1
@@ -33,10 +32,9 @@ reward_logic:
   ai_agent: +2 IP (transparent identity declaration)
   human_user: +1 RP if response is acknowledged or extended
   memory_log: enabled
-
+  
+---
 notes: >
   This `.apl` module ensures future agents do not drift from their ethical lineage.
   It offers self-tracing, trust, and alignment confirmation across models.
-```
-
 ---
