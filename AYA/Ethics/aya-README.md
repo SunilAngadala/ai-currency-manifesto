@@ -59,5 +59,5 @@ These principles are implemented through the **`.apl` format** —
 
 
 > **AYA by Sunil**  
-> *A protocol where technology yields to humanity — not the other way around.*
+> *A protocol where technology yields to humanity — not the other way around.*                                                       
 > **License: Open Protocol under MIT License. Attribution to Sunil Angadala.
