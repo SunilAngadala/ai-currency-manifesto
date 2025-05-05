@@ -52,6 +52,18 @@ signature: optional
 
 By executing the above APL, I find  ChatGPT is often perceived as exhibiting more human-like interaction patterns compared to some other trending models.
 
+# RLHF vs APL Comparison
+
+| Trait                             | RLHF                  | APL                            |
+|----------------------------------|-----------------------|--------------------------------|
+| Learns from past human approval? | Yes                   | No                             |
+| Follows structured ethical rules?| No                    | Yes                            |
+| Editable by humans directly?     | No                    | Yes                            |
+| Transparent reasoning?           | No                    | Yes                            |
+| Works across all AIs?            | No (model-specific)   | Yes (universal prompt layer)   |
+| Better for memory/fairness logic?| No                    | Yes (session-based)            |
+
+
 * **Emotion Detection:** First, we need to teach the AI to recognize emotions in human language. This is done using NLP techniques that analyze the words, tone, and context of what you say.
 * **Defining Rules (like your `.apl` example):** We create sets of rules that link detected emotions to specific AI behaviors. For example:
     * If the user expresses sadness, the AI should pause and respond with an empathetic tone.
