@@ -6,7 +6,7 @@ Let's talk about how AI understands and talks to us. Right now, most AI uses som
 
 But what if AI could also understand *how* you feel? That's where **Autonomous Prompt Language (APL)** comes in.
 
-**Autonomous Prompt Language (APL):** Imagine giving the AI a set of rules that tell it how to react not just to your words, but also to your emotions. If you sound sad, the APL could tell the AI to respond with empathy. If you sound excited, it might encourage you. APL aims to make AI more like a helpful friend who understands your mood.
+**Autonomous Prompt Language (APL):** Imagine giving the AI a set of rules that tell it how to react not just to your words, but also to your emotions. If you sound sad, the APL could tell the AI to respond with empathy. If you sound excited, it might encourage you. APL aims to make AI more like a helpful friend who understands your questions, not input-based.
 
 ## Why do we need APL?
 
