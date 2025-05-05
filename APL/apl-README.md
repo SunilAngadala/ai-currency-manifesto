@@ -52,6 +52,7 @@ signature: optional
 
 By executing the above APL, I find  ChatGPT is often perceived as exhibiting more human-like interaction patterns compared to some other trending models.
 
+
 # RLHF vs APL Comparison
 
 | Trait                             | RLHF                  | APL                            |
