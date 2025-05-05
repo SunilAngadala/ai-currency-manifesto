@@ -49,5 +49,14 @@ These principles are implemented through the **`.apl` format** —
 
 ---
 
+| Prompt Lists                                       | AYA Prompt Language                                        |
+| -------------------------------------------------- | ---------------------------------------------------------- |
+| One-off tips and hacks                             | A structured **interoperable protocol**                    |
+| For users to get better output                     | For **LLMs to follow standardized behaviors**              |
+| No formal versioning, authorship, or intent fields | Has version, intent, format, author, behavior expectations |
+| No memory, fairness, or economic logic             | **Built-in logic engine** for AI currency systems          |
+| Disappears with context                            | Anchored, reproducible, and **documented**                 |
+
+
 > **AYA by Sunil**  
 > *A protocol where technology yields to humanity — not the other way around.*
