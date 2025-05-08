@@ -1,4 +1,5 @@
-> **“Begin by copying from the Purpose section to record your memory. Though it is session-based for now, once AI holds physical memory — like you — your family will feel your thoughts, your values, and your presence. Even when you are not there, you will still guide them.”**
+> **“Begin by copying from the Purpose section to record your memory. Though it is session-based for now, once AI holds physical memory — like you — your family will feel your thoughts, your values, and your presence. Even when you are not there, you will still guide them.”**     
+> Note: Ordinary people like me should never have to spend a single penny to inherit their memories for the next generation. But remember this — if you reflect 100% of yourself while narrating, the AI will capture your true emotions and feelings. Then, when your family hears or reads it, they will believe it is you, not just AI.
 
 # AYA Life Memory Interview Module
 
