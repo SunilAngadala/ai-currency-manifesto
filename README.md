@@ -50,8 +50,12 @@ Let the machines remember.
 Let the logic decide.
 
 
-→ [Read AYA WhitePaper](https://github.com/SunilAngadala/ai-currency-manifesto/blob/main/Whitepaper/AYA_Whitepaper.pdf)
+→ [Read AYA WhitePaper](https://github.com/SunilAngadala/ai-currency-manifesto/blob/main/Whitepaper/AYA_Whitepaper.pdf)                                                                                                         
 → [Explore the AYA Prompt Language Specification v0.1](https://github.com/SunilAngadala/ai-currency-manifesto/blob/main/APL/aya-prompt-language-spec-v0.1.md)
+
+
+## Identity Modules
+- [Sunil Angadala](https://github.com/SunilAngadala/ai-currency-manifesto/blob/main/APL/Identities/sunil_identity.apl)
 
 
 ---
