@@ -75,4 +75,4 @@ By executing the above APL, I find  ChatGPT is often perceived as exhibiting mor
 In simple terms, we teach the AI to "read" emotions, give it a rulebook on how to respond, and then help it learn what works best through practice and feedback.
 
 # Identity Modules
-- Sunil Angadala → ./identities/sunil_identity.apl
+./identities/sunil_identity.apl
