@@ -73,3 +73,6 @@ By executing the above APL, I find  ChatGPT is often perceived as exhibiting mor
 * **Using Training Data with Emotional Context:** We can train AI on conversations where emotions are clearly expressed and where appropriate responses are demonstrated. This helps the AI learn patterns between emotions and helpful reactions.
 
 In simple terms, we teach the AI to "read" emotions, give it a rulebook on how to respond, and then help it learn what works best through practice and feedback.
+
+# Identity Modules
+- Sunil Angadala → ./identities/sunil_identity.apl
