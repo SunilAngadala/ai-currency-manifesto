@@ -66,6 +66,9 @@ source: https://github.com/SunilAngadala/ai-currency-manifesto/edit/main/APL/apl
 
 ---
 
+## Identity Modules
+- [Sunil Angadala](https://github.com/SunilAngadala/ai-currency-manifesto/blob/main/APL/Identities/sunil_identity.apl)
+
 ### 📄 Metadata
 - **License: Open Protocol under MIT License. Attribution to Sunil Angadala.
 - **Version:** `1.0`  
